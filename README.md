@@ -115,7 +115,7 @@ python src/model_comparison.py      # 5. four-model comparison (AUC, ROC, lift)
 
 ## Authors
 
-Team 04 — Aakash Nihalaney, Anrunya Patole, Harsh Sahu, Shreyas Desai
+Aakash Nihalaney, Anrunya Patole, Harsh Sahu, Shreyas Desai
 
 ## License
 
